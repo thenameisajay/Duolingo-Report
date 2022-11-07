@@ -17,6 +17,42 @@ BEHIND THE SCENES :
 
 
 
+GRADE : 19 / 20
+
+FEED-BACK FROM LECTURER :
+
+Content
+
+- Good introduction, setting the scene well.
+- Interesting and deep discussion of software engineering processes and system design.
+- Some relevant information on the business model.
+- Significant features are summarised well.
+- Selected limitations are considered appropriately.
+- Good set of ethical concerns identified and discussed in detail.
+- Plans and improvements for the future based on relevant sources are provided; these are imaginative and thoughtful.
+
+Reflection & discussion
+
+- You have gathered information from multiple sources and synthesised some useful insights.
+- References are incorporated well into the text, helping to inform the assertions you make.
+- Some good reflection and discussion.
+- Discussion of the business model is reflective and considered with a critical eye, which is nice to see.
+
+Report
+
+- Good structure overall.
+- Numbered sections help the structure a lot.
+- Extensive bibliography of appropriate references, well formatted.
+- The visual aids are a nice touch.
+- The flow of the document is good, with nice beginnings and ends.
+
+Summary
+
+- Well-written report outlining excellent work addressing all required aspects without any defects, including small additional elements beyond the requirements in the form of visual aids.
+
+
+
+
 
 
 Duolingo®  ,Tinycards®  and all other trademarks, service marks, graphics and logos
